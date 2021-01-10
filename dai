@@ -1,0 +1,11 @@
+#!/usr/bin/env php
+<?php
+/**
+ * User: Dai
+ * Date: 2020/12/29 23:57
+ */
+
+
+require_once './framework/Console/Console.php';
+
+(new Console())->run();
